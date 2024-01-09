@@ -28,7 +28,7 @@ Empezando
 2. Clone este Repositorio
 3. Abra la carpeta del proyecto y comience
 
-## Resumen Para este desafío de código, el candidato clonará y configurará una aplicación en React. El repositorio contient dos rutas pero sin funcionalidad real creada. El candidato demostrará toda su experiencia en la creación de aplicaciones con el marco Javascript y React y sus habilidades para resolver problemas. 
+## Resumen Para este desafío de código, el candidato clonará y configurará una aplicación en React. El repositorio contiene dos rutas pero sin funcionalidad real creada. El candidato demostrará toda su experiencia en la creación de aplicaciones con el marco Javascript y React y sus habilidades para resolver problemas. 
 
 ## Requisitos 
 
